@@ -103,4 +103,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 This utility was created to provide a simple and effective way to show progress in command-line tools. You can use it in your scripts to improve user experience by visually indicating that a task is in progress.
 
 For more information, visit the [GitHub repository](https://github.com/JMitander/).
-```
+
