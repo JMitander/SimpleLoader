@@ -1,5 +1,7 @@
 # SimpleLoader: A Loading Bar and Spinner Utility
 
+<a href="https://www.buymeacoffee.com/jmitander" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 A simple yet effective utility for displaying a loading bar and a spinning loader across multiple programming languages. This utility is useful for indicating progress or activity in command-line applications.
 
 ## Supported Languages
